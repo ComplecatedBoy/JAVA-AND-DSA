@@ -1,0 +1,32 @@
+String str=new String("satyam"); //
+or
+String str="satyam";
+
+
+//concatanation
+String str = str1+str2 ;
+
+str.length();
+str.charAT(index);
+
+str.equals(str1);//true or false
+
+str.substring(bi,ei);
+str.substring(bi);
+
+str.compareTo(str1);// output==0 if strings are equals.
+                    // output >0 if str>str1.
+                    //ouput <0 if str<str1.
+
+
+
+
+
+point: 
+1. Strings are IMMUTABLE
+
+
+***********************************************
+
+StringBuilder sb =new StringBuilder();
+sb.toString(object);

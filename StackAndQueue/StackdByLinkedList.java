@@ -1,4 +1,4 @@
-package Stack;
+package StackAndQueue;
 
 public class StackdByLinkedList{
     private class Node{

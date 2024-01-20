@@ -1,4 +1,4 @@
-package Stack;
+package StackAndQueue;
 import java.util.*;
 
 public class ValidParenThesis {
